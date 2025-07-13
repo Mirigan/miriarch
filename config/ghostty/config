@@ -1,0 +1,8 @@
+theme = catppuccin-mocha
+font-size = 14
+font-family = CaskaydiaMono Nerd Font Mono
+background-blur-radius = 20
+mouse-hide-while-typing = true
+window-decoration = true
+macos-option-as-alt = true
+
