@@ -1,3 +1,3 @@
-sudo pacman -S --needed --noconfirm rbenv
+sudo pacman -S --needed --noconfirm rbenv ruby-build
 rbenv init
 
