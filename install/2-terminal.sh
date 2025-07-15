@@ -1,5 +1,6 @@
 sudo pacman -S --needed --noconfirm \
-  wget curl unzip btop wl-clipboard fastfetch \
-  man tldr less whois bash-completion \
-  impala \
+  wget curl unzip inetutils impala \
+  fd eza fzf ripgrep zoxide bat \
+  wl-clipboard fastfetch btop \
+  man tldr less whois plocate bash-completion \
   ghostty 
